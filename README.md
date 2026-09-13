@@ -46,8 +46,12 @@ _italic text 2_
  2. second
 
 # strikethrough
-~~srikethrough ~~ or ~strikethrough~
+~~strikethrough~~ or ~strikethrough~
 # subscript
 This is H<sub>2</sub>O
 # superscript
 This is x<sup>2</sup> + y<sup>3</sup>
+# all bold and italic
+***all these texts are important***
+# bold and nested italic
+**this text is _extremely_ important**
