@@ -37,9 +37,17 @@ Markdown Learning Repository  Welcome to the Markdown Learning Repository!   Thi
 **bold text**
 # italic
 *italic text*
+_italic text 2_
 # list
 - item 1
 - item 2
  # numbered list
  1. first
  2. second
+
+# strikethrough
+~~srikethrough ~~ or ~strikethrough~
+# subscript
+This is H<sub>2</sub>O
+# superscript
+This is x<sup>2</sup> + y<sup>3</sup>
