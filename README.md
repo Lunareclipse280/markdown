@@ -25,9 +25,21 @@ Markdown Learning Repository  Welcome to the Markdown Learning Repository!   Thi
    git clone https://github.com/YourUsername/markdown-students.git
 
 ---
+# headings
    # first level heading
    ## second level heading
    ### third level heading
    #### fourth level heading
    ##### fifth level heading
    ###### sixth level heading
+
+# bold
+**bold text**
+# italic
+*italic text*
+# list
+- item 1
+- item 2
+ # numbered list
+ 1. first
+ 2. second
