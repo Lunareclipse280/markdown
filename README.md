@@ -60,3 +60,9 @@ This is x<sup>2</sup> + y<sup>3</sup>
 |--------------|---------------|
 | content cell | content cell  | 
 | content cell | conent cell   |
+
+
+| command | description |
+| --- | --- |
+| git status | list or new or modified files |
+| git diff | show file differences that haven't been staged |
