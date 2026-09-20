@@ -70,3 +70,22 @@ This is x<sup>2</sup> + y<sup>3</sup>
  - [x] #739
  - [ ] https://github.com/octo-org/octo-repo/issues/740
  - [ ] Add delight to the experience when all tasks are complete :tada:
+# footnote [^1]
+[^1]: my reference.
+[^2]: add line breaks within a foot note, add two spaces to the end of the line.
+this is a second line.
+# alert 
+> [!NOTE]
+> useful information that users should know, even when skimming content.
+
+> [!TIP]
+> helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> KEY INFORMATION USERS NEED TO KNOW TO ACHIEVE THEIR GOAL.
+
+> [!WARNING]
+> URGENT INFO THAT NEEDS IMMEDIATE USER ATTENTION TO AVOID PROBLEMS.
+>
+> [!CAUTION]
+> advises about risks or negative outcomes of certain actions.
