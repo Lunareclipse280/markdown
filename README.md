@@ -66,3 +66,7 @@ This is x<sup>2</sup> + y<sup>3</sup>
 | --- | --- |
 | git status | list or new or modified files |
 | git diff | show file differences that haven't been staged |
+ # task list
+ - [x] #739
+ - [ ] https://github.com/octo-org/octo-repo/issues/740
+ - [ ] Add delight to the experience when all tasks are complete :tada:
